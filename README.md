@@ -12,7 +12,7 @@ Aplicación de escritorio con interfaz gráfica para registrar, organizar y expo
 ✅ Cálculo automático de balance general  
 ✅ Exportación de movimientos a archivos Excel (.xlsx)  
 ✅ Almacenamiento local seguro en archivos de datos  
-✅ Interfaz intuitiva y moderna (ttkbootstrap)
+✅ Interfaz intuitiva (ttkbootstrap)
 
 ---
 
