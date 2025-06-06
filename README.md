@@ -94,6 +94,4 @@ Este proyecto está bajo la [Licencia MIT](./Licencia). Puedes usarlo, modificar
 
 ```
 ^-^
----
-
 ```
