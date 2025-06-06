@@ -1,3 +1,5 @@
+---
+
 ```markdown
 # 💰 Sistema de Registro Financiero
 
@@ -21,8 +23,10 @@ Aplicación de escritorio con interfaz gráfica para registrar, organizar y expo
 ```
 
 registro-financiero/
+│
 ├── datos/                  # Archivos .csv u otros con los registros guardados
 ├── exportaciones/          # Archivos .xlsx exportados desde la app
+│
 ├── Estilo\_excel.py         # Estilo y formato para exportar datos a Excel
 ├── Licencia                # Archivo de licencia del proyecto
 ├── interfaz.py             # Diseño y funcionamiento de la interfaz gráfica
@@ -42,13 +46,13 @@ registro-financiero/
 2. Clona el repositorio o descarga los archivos.
 3. Instala las dependencias necesarias:
 
-```
+```bash
 pip install -r requirements.txt
 ````
 
 4. Ejecuta la aplicación:
 
-```
+```bash
 python main.py
 ```
 
@@ -63,22 +67,22 @@ ttkbootstrap
 openpyxl
 ```
 
-> ⚠️ `tkinter` viene incluido con Python, no necesitas instalarlo por separado.
+> ⚠️ `tkinter` ya viene incluido con Python (no requiere instalación extra).
 
 ---
 
 ## 🛠 Tecnologías usadas
 
 * **Python 3**
-* **Tkinter** + **ttkbootstrap** (interfaz gráfica moderna)
-* **openpyxl** (para exportación a Excel)
-* Programación orientada a objetos (OOP)
+* **Tkinter** + **ttkbootstrap**
+* **openpyxl**
+* Programación orientada a objetos (POO)
 
 ---
 
 ## 👤 Autor
 
-**Euris**
+**3UR12**
 🎓 Estudiante de Ingeniería en Sistemas
 📍 Panamá
 📧 [sehl3soup@gmail.com](mailto:sehl3soup@gmail.com)
@@ -88,6 +92,11 @@ openpyxl
 ## 📜 Licencia
 
 Este proyecto está bajo la [Licencia MIT](./Licencia). Puedes usarlo, modificarlo y distribuirlo libremente con atribución al autor original.
+
+---
+
+
+```
 
 ---
 
