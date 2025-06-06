@@ -18,9 +18,7 @@ Aplicación de escritorio con interfaz gráfica para registrar, organizar y expo
 
 ## 📁 Estructura del proyecto
 
-```bash
-
-registro-financiero/
+```registro-financiero/
 │
 ├── datos/                  # Archivos .csv u otros con los registros guardados
 ├── exportaciones/          # Archivos .xlsx exportados desde la app
