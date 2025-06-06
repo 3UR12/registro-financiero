@@ -1,0 +1,23 @@
+[
+    {
+        "tipo": "Ingreso",
+        "descripcion": "nada",
+        "monto": 25.0,
+        "categoria": "General",
+        "fecha": "2025-06-06 14:51:34"
+    },
+    {
+        "tipo": "Ingreso",
+        "descripcion": "nada1",
+        "monto": 5984.0,
+        "categoria": "Pagos",
+        "fecha": "2025-06-06 14:51:49"
+    },
+    {
+        "tipo": "Egreso",
+        "descripcion": "nada2",
+        "monto": 58492.0,
+        "categoria": "Servicios",
+        "fecha": "2025-06-06 14:52:06"
+    }
+]

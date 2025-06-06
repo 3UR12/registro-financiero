@@ -1,0 +1,51 @@
+[
+    {
+        "tipo": "Ingreso",
+        "descripcion": "Quincena",
+        "monto": 400.0,
+        "categoria": "General",
+        "fecha": "2025-05-31 15:10:39"
+    },
+    {
+        "tipo": "Egreso",
+        "descripcion": "Pasale 160 a 6092-7331",
+        "monto": 160.0,
+        "categoria": "General",
+        "fecha": "2025-05-31 15:11:26"
+    },
+    {
+        "tipo": "Egreso",
+        "descripcion": "6220-4750 edwin",
+        "monto": 37.5,
+        "categoria": "General",
+        "fecha": "2025-05-31 15:13:20"
+    },
+    {
+        "tipo": "Egreso",
+        "descripcion": "6092-7331",
+        "monto": 17.5,
+        "categoria": "General",
+        "fecha": "2025-05-31 15:14:11"
+    },
+    {
+        "tipo": "Egreso",
+        "descripcion": "jamir",
+        "monto": 75.0,
+        "categoria": "General",
+        "fecha": "2025-05-31 15:14:34"
+    },
+    {
+        "tipo": "Egreso",
+        "descripcion": "jab\u00f3n y suavitel",
+        "monto": 10.0,
+        "categoria": "General",
+        "fecha": "2025-05-31 15:19:13"
+    },
+    {
+        "tipo": "Egreso",
+        "descripcion": "sacar en efectivo",
+        "monto": 100.0,
+        "categoria": "Efectivo",
+        "fecha": "2025-05-31 15:19:33"
+    }
+]
