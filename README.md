@@ -18,7 +18,7 @@ Aplicación de escritorio con interfaz gráfica para registrar, organizar y expo
 
 ## 📁 Estructura del proyecto
 
-```
+```bash
 
 registro-financiero/
 │
