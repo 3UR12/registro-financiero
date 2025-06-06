@@ -90,6 +90,7 @@ openpyxl
 Este proyecto está bajo la [Licencia MIT](./Licencia). Puedes usarlo, modificarlo y distribuirlo libremente con atribución al autor original.
 
 ---
+^-^
 
 
 ```
