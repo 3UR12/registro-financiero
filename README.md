@@ -1,4 +1,4 @@
-markdown
+'''markdown
 # 💰 Sistema de Registro Financiero
 
 Aplicación de escritorio con interfaz gráfica para registrar, organizar y exportar movimientos financieros. Desarrollada en **Python** usando **Tkinter** y **ttkbootstrap** para una interfaz moderna.
